@@ -14,7 +14,8 @@
  */
 
 const whatToDoForLunch = function(hungry, availableTime) {
-  console.log("I don't know what to do!");
+  console.log("hungry is", hungry);
+  console.log("availableTime is", availableTime);
 }
 
 
